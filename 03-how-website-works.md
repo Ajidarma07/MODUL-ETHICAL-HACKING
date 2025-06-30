@@ -50,7 +50,7 @@ orang di tengah.
 Kalau server gak filter input user dengan baik, penyerang bisa masukin kode jahat buat ngerusak atau ambil\
 data.
 
-* Session Hacking
+* **Session Hacking**
 
 Kalau cookie tidak aman, orang lain bisa bajak sesi login kamu. Bisa aja mereka jadi "kamu" di mata website.
 
