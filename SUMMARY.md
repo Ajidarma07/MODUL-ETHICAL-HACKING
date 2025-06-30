@@ -2,8 +2,8 @@
 
 * [README](README.md)
 * [Pendahuluan](01-introduction.md)
-* [Persiapan Environment](02-environment-prep.md)
-* [Cara Kerja Website](03-how-website-works.md)
+* [Environment Preparation](02-environment-prep.md)
+* [How Websites Work?](03-how-website-works.md)
 * [Proxy Tools](04-proxy-tools.md)
 * [Authentication & Session](05-auth-session.md)
 * [Reconnaissance](06-reconnaissance.md)
