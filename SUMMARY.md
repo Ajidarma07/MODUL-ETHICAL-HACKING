@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📌 README](README.md)
-* [🤗 Pendahuluan](01-introduction.md)
+* [Pendahuluan](01-introduction.md)
 * [Environment Preparation](02-environment-prep.md)
 * [How Websites Work?](03-how-website-works.md)
 * [Proxy Tools](04-proxy-tools.md)

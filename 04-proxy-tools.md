@@ -9,9 +9,7 @@ description: Tools Keamanan
 Proxy tool itu adalah alat yang jadi "perantara"&#x20;antara browser kamu dan server web.\
 
 
-Ibarat kamu mau ngobrol sama seseorang,\
-tapi ada orang ketiga yang menerjemahkan, mencatat,\
-bahkan kadang mengedit omongan kamu dulu\
+Ibarat kamu mau ngobrol sama seseorang,&#x20;tapi ada orang ketiga yang menerjemahkan, mencatat,&#x20;bahkan kadang mengedit omongan kamu dulu\
 sebelum dikirim.\
 
 

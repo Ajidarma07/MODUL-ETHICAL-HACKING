@@ -1,4 +1,4 @@
-# 🤗 Pendahuluan
+# Pendahuluan
 
 ## 👋 Kenalan dengan Ethical Hacking
 
@@ -26,24 +26,14 @@ Ethical Hacking adalah proses hacking **yang legal dan berizin resmi** untuk men
 
 ## 🌐 Kenapa Website Pentesting Penting?
 
-Website Penetration Testing adalah simulasi serangan siber yang\
-khusus ditujukan ke website atau aplikasi web untuk nemuin celah\
-keamanan sebelum hacker jahat menemukannya.\
+Website Penetration Testing adalah simulasi serangan siber yang&#x20;khusus ditujukan ke website atau aplikasi web untuk nemuin celah&#x20;keamanan sebelum hacker jahat menemukannya.\
 
 
 Website sering menjadi target utama serangan siber karena sifatnya\
-yang terbuka dan mudah diakses oleh publik.\
-Menurut laporan Badan Siber dan Sandi Negara (BSSN), sepanjang\
-tahun 2022, terdapat 2.348 kasus web defacement yang terjadi di\
-situs-situs Indonesia, dengan sektor pemerintahan menjadi target\
-utama sebanyak 885 kasus.\
+yang terbuka dan mudah diakses oleh publik.&#x20;Menurut laporan Badan Siber dan Sandi Negara (BSSN), sepanjang&#x20;tahun 2022, terdapat 2.348 kasus web defacement yang terjadi di&#x20;situs-situs Indonesia, dengan sektor pemerintahan menjadi target&#x20;utama sebanyak 885 kasus.\
 
 
-Selain itu, Kaspersky mencatat bahwa sepanjang tahun 2024, terdapat\
-19.171.977 upaya serangan web yang berhasil diblokir di Indonesia.\
-Data ini menunjukkan bahwa website sebagai aplikasi yang terbuka\
-untuk publik sering menjadi sasaran empuk bagi para pelaku\
-kejahatan siber.
+Selain itu, Kaspersky mencatat bahwa sepanjang tahun 2024, terdapat&#x20;19.171.977 upaya serangan web yang berhasil diblokir di Indonesia.&#x20;Data ini menunjukkan bahwa website sebagai aplikasi yang terbuka&#x20;untuk publik sering menjadi sasaran empuk bagi para pelaku&#x20;kejahatan siber.
 
 ### Fakta Keamanan:
 

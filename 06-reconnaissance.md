@@ -67,7 +67,7 @@ Node.js ➝ rentan RCE (Remote Code Execution).
 * WordPress (paling umum, plugin banyak)
 * Joomla
 * Drupal
-* Ghost (khusus blog
+* Ghost (khusus blog)
 
 **Banyak serangan muncul dari plugin/theme pihak ketiga!**
 
@@ -96,7 +96,7 @@ Gunakan situs legal yang umum diakses publik, seperti:
 * Website Pemerintah lokal
 * Situs berita nasional
 
-(jangan targetkan web perbankan, militer, dan rumah sakit).
+**(jangan targetkan web perbankan, militer, dan rumah sakit).**
 
 
 
@@ -133,13 +133,10 @@ Contoh Working Paper
 Setiap peserta diminta untuk&#x20;mencatat hasil berikut:
 
 * IP address dan nameserver
-* Teknologi website (CMS, server,  \
-  dll)
+* Teknologi website (CMS, server,  dll)
 * Port dan services terbuka
-* Direktori sensitif yang  \
-  ditemukan
-* Potensi entry point untuk  \
-  eksploitasi
+* Direktori sensitif yang  &#x20;ditemukan
+* Potensi entry point untuk  &#x20;eksploitasi
 
 
 

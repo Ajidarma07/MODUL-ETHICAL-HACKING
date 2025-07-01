@@ -6,9 +6,7 @@ description: Bagaimana Website Berkerja?
 
 ## 🌐 Bagaimana Website Berfungsi?
 
-Bayangin kamu lagi buka browser bisa Chrome, Firefox, atau Safari terus kamu ngetik alamat kayak youtube.com. Nah, pas kamu tekan\
-Enter, sebenarnya kamu lagi ngirimin permintaan ke komputer lain (yang disebut server) buat minta halaman web itu ditampilin.\
-Browser kamu = kayak tukang ojek online. Dia nganter permintaan kamu ke server,terus balik lagi bawa “pesanan” berupa tampilan website.
+Bayangin kamu lagi buka browser bisa Chrome, Firefox, atau Safari terus kamu ngetik alamat kayak youtube.com. Nah, pas kamu tekan&#x20;Enter, sebenarnya kamu lagi ngirimin permintaan ke komputer lain (yang disebut server) buat minta halaman web itu ditampilin.&#x20;Browser kamu = kayak tukang ojek online. Dia nganter permintaan kamu ke server,terus balik lagi bawa “pesanan” berupa tampilan website.
 
 <figure><img src=".gitbook/assets/Screenshot 2025-06-30 201028.png" alt=""><figcaption></figcaption></figure>
 
@@ -42,8 +40,7 @@ masaknya di situ.
 
 * **Man-in-the-Middle**: intercept data
 
-Kalau data dari browser ke server tidak dienkripsi (Tidak HTTPS), bisa disadap orang. Seperti lagi chat tapi dibaca\
-orang di tengah.
+Kalau data dari browser ke server tidak dienkripsi (Tidak HTTPS), bisa disadap orang. Seperti lagi chat tapi dibaca&#x20;orang di tengah.
 
 * **SQL Injection / XSS**
 
@@ -67,10 +64,8 @@ Kalau cookie tidak aman, orang lain bisa bajak sesi login kamu. Bisa aja mereka 
 HTML itu singkatan dari HyperText Markup Language.\
 
 
-HTML itu bukan bahasa pemrograman, tapi bahasa markup yang fungsinya buat ngebentuk struktur dasar\
-halaman web.\
-Bayangin kamu bangun rumah. Nah, HTML itu kayak kerangka atau fondasi rumahnya. Dinding, atap, jendela,\
-pintu semuanya disusun pake HTML
+HTML itu bukan bahasa pemrograman, tapi bahasa markup yang fungsinya buat ngebentuk struktur dasar&#x20;halaman web.\
+Bayangin kamu bangun rumah. Nah, HTML itu kayak kerangka atau fondasi rumahnya. Dinding, atap, jendela,&#x20;pintu semuanya disusun pake HTML
 
 **Kalau kamu ngerti HTML, kamu bisa:**
 
@@ -87,8 +82,7 @@ pintu semuanya disusun pake HTML
 
 ## 🧠 Apa Itu JavaScript?
 
-JavaScript adalah bahasa pemrograman yang membuat website jadi hidup dan interaktif.\
-Kalau HTML itu kerangkanya, CSS itu bajunya, maka JavaScript itu otaknya&#x20;Dia yang ngatur interaksi, respon user, logika, dan segala hal dinamis di web.
+JavaScript adalah bahasa pemrograman yang membuat website jadi hidup dan interaktif.&#x20;Kalau HTML itu kerangkanya, CSS itu bajunya, maka JavaScript itu otaknya&#x20;Dia yang ngatur interaksi, respon user, logika, dan segala hal dinamis di web.
 
 Contoh gampang: Pas kamu klik tombol terus muncul pop-up, atau pas ngetik di form terus muncul notifikasi&#x20;"email nggak valid" itu kerjaannya JavaScript!
 

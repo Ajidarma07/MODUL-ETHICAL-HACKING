@@ -6,7 +6,7 @@ Aplikasi web lokal berisi kerentanan nyata untuk latihan ethical hacking.
 
 **Cara Pakai Damn Vulnerable Web App (DVWA):**
 
-1. 1.Clone dari Github lalu install
+1. Clone dari Github lalu install
 2. Install VM Metasploitable 2
 
 <div align="center"><figure><img src=".gitbook/assets/image (1).png" alt="" width="413"><figcaption><p><strong>Damn Vulnerable Web App</strong></p></figcaption></figure></div>
@@ -34,8 +34,7 @@ Command Injection adalah jenis kerentanan yang terjadi saat aplikasi web menyisi
 
 🧠 **Mindset:**
 
-“Bagaimana caranya input saya bisa ‘memecah’ atau ‘menambahkan’ perintah\
-ke command line server?”
+“Bagaimana caranya input saya bisa ‘memecah’ atau ‘menambahkan’ perintah&#x20;ke command line server?”
 
 ***
 
@@ -83,8 +82,7 @@ CSRF adalah serangan di mana penyerang memanfaatkan status login korban untuk me
 **Cara Berpikir Ethical Hacker (dan Attacker)**
 
 1. **Pahami Sesi & Konteks Korban**   \
-   Korban sudah login di aplikasi target   \
-   Browser korban menyimpan session/cookie aktif
+   Korban sudah login di aplikasi target   &#x20;Browser korban menyimpan session/cookie aktif
 2. 🎯 **Cari Form Tanpa Perlindungan CSRF**   \
    Contoh: form ubah password, transfer, atau update profile   \
    Cek apakah form punya CSRF token   \
@@ -97,8 +95,7 @@ CSRF adalah serangan di mana penyerang memanfaatkan status login korban untuk me
 
 **Deskripsi:**
 
-XSS (Cross-Site Scripting) adalah kerentanan web yang memungkinkan penyerang menyisipkan kode JavaScript berbahaya ke halaman web yang dilihat oleh\
-pengguna lain.
+XSS (Cross-Site Scripting) adalah kerentanan web yang memungkinkan penyerang menyisipkan kode JavaScript berbahaya ke halaman web yang dilihat oleh&#x20;pengguna lain.
 
 📌 Dengan XSS, attacker bisa membuat browser korban menjalankan script yang tidak diinginkan.
 
@@ -115,8 +112,7 @@ pengguna lain.
 
 **Deskripsi:**
 
-SQL Injection adalah kerentanan yang memungkinkan penyerang menyisipkan perintah SQL berbahaya ke dalam input yang dikirimkan ke server, untuk\
-memanipulasi database.
+SQL Injection adalah kerentanan yang memungkinkan penyerang menyisipkan perintah SQL berbahaya ke dalam input yang dikirimkan ke server, untuk&#x20;memanipulasi database.
 
 📌 Misalnya: attacker bisa login tanpa password, mencuri data, bahkan mengubah isi database.
 
@@ -132,8 +128,7 @@ memanipulasi database.
 
 **Deskripsi:**
 
-File Upload Vulnerability adalah celah keamanan yang memungkinkan penyerang mengunggah file berbahaya (biasanya file dengan kode server-side seperti\
-.php, .jsp, .asp) ke server target, dan menjalankannya.
+File Upload Vulnerability adalah celah keamanan yang memungkinkan penyerang mengunggah file berbahaya (biasanya file dengan kode server-side seperti&#x20;.php, .jsp, .asp) ke server target, dan menjalankannya.
 
 📌 Tujuan utama: mendapatkan Remote Code Execution (RCE), akses shell, atau deface website.
 
