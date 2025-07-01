@@ -85,13 +85,61 @@ Kenapa CMS mudah Rentan
 * Plugin bajakan yang inject malware
 * Brute force ke halaman login WordPress
 
-## 📝 Checklist Hasil Recon:
+## 📝 Steps to Recon:
 
-* IP & nameserver
-* Teknologi web (CMS/server)
-* Port terbuka
-* Direktori sensitif
-* Entry point eksploitasi
+**Langkah 1: Menentukan Target**\
+Gunakan situs legal yang umum diakses publik, seperti:
+
+* Website Universitas
+* Website Pemerintah lokal
+* Situs berita nasional
+
+(jangan targetkan web perbankan, militer, dan rumah sakit).
+
+
+
+**Langkah 2: Passive Reconnaissance**\
+Gunakan metode passive reconnaissance terlebih dahulu.
+
+* Whois
+* WhatWeb
+* Wappalyzer
+* Shodan
+
+
+
+**Langkah 3: Active Reconnaissance**
+
+* Nmap
+* Dirsearch
+* Subfinder
+* Shortscan
+* Wpscan
+
+**Langkah 4: Working Paper/Checklist Filling**
+
+* Word/Googledocs
+* Excel
+* Notes
+
+Contoh Working Paper
+
+
+
+📋 **Tugas Dokumentasi:**
+
+Setiap peserta diminta untuk&#x20;mencatat hasil berikut:
+
+* IP address dan nameserver
+* Teknologi website (CMS, server,  \
+  dll)
+* Port dan services terbuka
+* Direktori sensitif yang  \
+  ditemukan
+* Potensi entry point untuk  \
+  eksploitasi
+
+
 
 ***
 
