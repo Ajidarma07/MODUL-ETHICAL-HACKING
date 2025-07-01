@@ -24,7 +24,7 @@ Mirip kayak detektif yang sedang&#x20;mengumpulkan informasi tentang&#x20;suat
 
 ### 🧘 Passive Recon:
 
-Mengumpulkan informasi tanpa&#x20;berinteraksi langsung dengan target
+**Mengumpulkan informasi tanpa&#x20;berinteraksi langsung dengan target:**
 
 * Whois lookup
 * DNS Enum
@@ -33,7 +33,7 @@ Mengumpulkan informasi tanpa&#x20;berinteraksi langsung dengan target
 
 ### 🔨 Active Recon:
 
-Mengumpulkan informasi dengan&#x20;berinteraksi langsung dengan target
+**Mengumpulkan informasi dengan&#x20;berinteraksi langsung dengan target:**
 
 * Nmap, Nikto
 * Dirsearch, WhatWeb
@@ -45,24 +45,24 @@ Mengumpulkan informasi dengan&#x20;berinteraksi langsung dengan target
 
 ## 🧠Web Technologies & CMS
 
-Kenapa Perlu Tahu Teknologi Web?
+**Kenapa Perlu Tahu Teknologi Web?**
 
 🔍 “Tidak bisa menebak celah kalau tidak tahu&#x20;temboknya dari apa.”
 
 Beda teknologi, beda potensi kerentanannya. Bantu kita nentuin pendekatan pentest. Bisa pakai exploit yang spesifik.
 
-Contoh:
+**Contoh:**
 
 WordPress ➝ target plugin vulnerable\
 Node.js ➝ rentan RCE (Remote Code Execution).
 
 
 
-CMS = Content Management System
+**CMS = Content Management System**
 
 🛠 Platform siap pakai untuk bangun website tanpa coding dari nol.
 
-Contoh CMS:
+**Contoh CMS:**
 
 * WordPress (paling umum, plugin banyak)
 * Joomla
@@ -71,7 +71,9 @@ Contoh CMS:
 
 **Banyak serangan muncul dari plugin/theme pihak ketiga!**
 
-Kenapa CMS mudah Rentan
+
+
+**Kenapa CMS mudah Rentan:**
 
 🔨Banyak plugin eksternal → risiko tinggi\
 ❌User jarang update → lubang keamanan tetap terbuka\
@@ -79,7 +81,7 @@ Kenapa CMS mudah Rentan
 
 
 
-🛑 Contoh umum:
+🛑 **Contoh umum:**
 
 * wp-admin terbuka
 * Plugin bajakan yang inject malware
@@ -99,7 +101,7 @@ Gunakan situs legal yang umum diakses publik, seperti:
 
 
 **Langkah 2: Passive Reconnaissance**\
-Gunakan metode passive reconnaissance terlebih dahulu.
+Gunakan metode passive reconnaissance terlebih dahulu:
 
 * Whois
 * WhatWeb

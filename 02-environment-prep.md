@@ -64,7 +64,7 @@ Virtual Machine (VM) adalah komputer virtual yang berjalan di dalam komputer kam
 
 ## 🛠 Tools di Kali Linux:
 
-Kali Linux sudah dilengkapi:
+**Kali Linux sudah dilengkapi:**
 
 * Metasploit
 * Nmap

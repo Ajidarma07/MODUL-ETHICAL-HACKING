@@ -79,11 +79,9 @@ pintu semuanya disusun pake HTML
 * Cek source code halaman untuk melihat celah
 * Modifikasi halaman lokal menggunakan DevTools (buat pentest atau fun)
 
-<figure><img src=".gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption><p>Contoh HTML</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption><p><strong>Contoh HTML</strong></p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Screenshot 2025-06-30 205327.png" alt="" width="411"><figcaption><p><strong>Fungsi-fungsi</strong></p></figcaption></figure>
-
-
 
 ***
 
@@ -135,11 +133,11 @@ IP Itu Bisa Apa Aja?
 
 ## Apa Itu DNS?
 
-DNS (Domain Name System) itu seperti kontak di HP kamu
+**DNS (Domain Name System) itu seperti kontak di HP kamu**
 
 <figure><img src=".gitbook/assets/Screenshot 2025-06-30 212509.png" alt=""><figcaption></figcaption></figure>
 
-Proses simpelnya:
+**Proses simpelnya:**
 
 1. Kamu ketik youtube.com
 2. Browser tanya ke DNS:"Eh, IP address buat youtube.com berapa ya?"
@@ -158,7 +156,7 @@ Proses simpelnya:
 
 <figure><img src=".gitbook/assets/Screenshot 2025-06-30 213357.png" alt="" width="434"><figcaption><p><strong>SERVICE</strong></p></figcaption></figure>
 
-Port diwakili sama angka dari 0 sampai 65535:
+**Port diwakili sama angka dari 0 sampai 65535:**
 
 1. 0-1023 = Well-known ports (buatlayanan standar, kayak HTTP, FTP, SSH)
 2. 1024-49151 = Registered ports (buat aplikasitertentu, semi-standar)

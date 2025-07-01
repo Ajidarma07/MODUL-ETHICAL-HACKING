@@ -67,4 +67,4 @@ Professional Reporting adalah tahap akhir dari proses penetration testing, yang 
 3. Lakukan Reconnaissance dan Exploit Kerentanan
 4. Tulis Laporan Hasil Hacking/Penetration Testing
 
-<h2 align="center">LAPORAN TERBAIK AKAN MENDAPATKAN REWARD!</h2>
+<h2 align="center">LAPORAN TERBAIK AKAN MENDAPATKAN REWARD !</h2>

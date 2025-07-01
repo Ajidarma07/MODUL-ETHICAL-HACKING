@@ -14,7 +14,7 @@ tangan waktu masuk konser supaya bisa bolak-balik venue.”
 
 ## 🍪 SessionID, Cookies, danJSON Web Token(JWT)
 
-Cookies adalah file kecil yang disimpan browser, biasanya isinya:
+**Cookies adalah file kecil yang disimpan browser, biasanya isinya:**
 
 * Session ID
 * Info user (kadang)
@@ -32,7 +32,7 @@ Format: header.payload.signature (dipisah titik).
 
 <figure><img src=".gitbook/assets/Screenshot 2025-07-01 094333.png" alt=""><figcaption></figcaption></figure>
 
-✔️ Kelebihan:
+✔️**Kelebihan:**
 
 Stateless (tidak perlu disimpan di server)&#x20;Bisa di-verify langsung.
 
@@ -42,7 +42,7 @@ Stateless (tidak perlu disimpan di server)&#x20;Bisa di-verify langsung.
 
 ## 🔎Cara Lihat Session ID, Cookies atau JWT:
 
-🛠Praktek:&#x20;
+🛠**Praktek:**&#x20;
 
 1. Login ke Website
 2. Lihat HTTP request pakai Proxy > HTTP history
