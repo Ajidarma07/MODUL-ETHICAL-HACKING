@@ -9,4 +9,4 @@
 * [Reconnaissance](06-reconnaissance.md)
 * [OWASP Web Top 10](07-owasp-top10.md)
 * [Damn Vulnerable Web App](08-dvwa.md)
-* [Pelaporan Profesional](09-reporting.md)
+* [Professional Reporting](09-reporting.md)

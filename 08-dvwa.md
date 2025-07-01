@@ -9,9 +9,9 @@ Aplikasi web lokal berisi kerentanan nyata untuk latihan ethical hacking.
 1. 1.Clone dari Github lalu install
 2. Install VM Metasploitable 2
 
-<div align="center"><figure><img src=".gitbook/assets/image.png" alt="" width="413"><figcaption><p><strong>Damn Vulnerable Web App</strong></p></figcaption></figure></div>
+<div align="center"><figure><img src=".gitbook/assets/image (1).png" alt="" width="413"><figcaption><p><strong>Damn Vulnerable Web App</strong></p></figcaption></figure></div>
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Command Injection:
 
