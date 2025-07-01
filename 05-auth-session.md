@@ -22,7 +22,7 @@ Cookies adalah file kecil yang disimpan browser, biasanya isinya:
 
 Session ID → penanda unik sesi user. Kalau ini bocor, bisa dipakai orang lain buat nyamar jadi kita.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Alternatif modern selain session ID:
 
@@ -49,7 +49,7 @@ Stateless (tidak perlu disimpan di server)&#x20;Bisa di-verify langsung.
 3. Perhatikan response dari server:  Apakah ada Set-Cookie? dan Nilai sessionnya apa?
 4. Coba refresh halaman, lihat cookie tetap dikirim atau enggak
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

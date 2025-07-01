@@ -29,11 +29,11 @@ Organisasi global yang membuat standar keamanan aplikasi web.
 * Jadi acuan industri (developer, pentester, auditor)
 * Banyak standar (ISO, PCI-DSS) merujuk ke OWASP Top 10
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 <h2 align="center">OWASP Top 10 2017-2021</h2>
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Screenshot 2025-07-01 111754.png" alt=""><figcaption></figcaption></figure>
 

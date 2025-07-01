@@ -8,5 +8,5 @@
 * [Authentication & Session Management](05-auth-session.md)
 * [Reconnaissance](06-reconnaissance.md)
 * [OWASP Web Top 10](07-owasp-top10.md)
-* [Studi Kasus DVWA](08-dvwa.md)
+* [Damn Vulnerable Web App](08-dvwa.md)
 * [Pelaporan Profesional](09-reporting.md)

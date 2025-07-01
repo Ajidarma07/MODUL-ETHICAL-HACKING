@@ -14,7 +14,7 @@ Reconnaissance adalah proses awal dalam penetration testing untuk mengumpulkan i
 * Post Exploit
 * Reporting
 
-<figure><img src=".gitbook/assets/image (5).png" alt="" width="228"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1).png" alt="" width="228"><figcaption></figcaption></figure>
 
 Mirip kayak detektif yang sedang&#x20;mengumpulkan informasi tentang&#x20;suatu kasus sebelum bertindak lebih lanjut.
 
