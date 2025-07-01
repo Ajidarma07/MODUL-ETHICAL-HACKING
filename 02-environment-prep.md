@@ -56,11 +56,11 @@ Virtual Machine (VM) adalah komputer virtual yang berjalan di dalam komputer kam
 
 ### Ada Beberapa Tools VM:
 
-<div align="left" data-full-width="true"><figure><img src=".gitbook/assets/image (1).png" alt="" width="100"><figcaption><p><strong>VirtualBox</strong></p></figcaption></figure></div>
+<div align="left" data-full-width="true"><figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="100"><figcaption><p><strong>VirtualBox</strong></p></figcaption></figure></div>
 
-<div align="left"><figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="113"><figcaption><p><strong>VMWare</strong></p></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="" width="113"><figcaption><p><strong>VMWare</strong></p></figcaption></figure></div>
 
-<div align="left"><figure><img src=".gitbook/assets/image (2).png" alt="" width="103"><figcaption><p><strong>UTM (Khusus MacOS)</strong></p></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (2) (1).png" alt="" width="103"><figcaption><p><strong>UTM (Khusus MacOS)</strong></p></figcaption></figure></div>
 
 ## 🛠 Tools di Kali Linux:
 

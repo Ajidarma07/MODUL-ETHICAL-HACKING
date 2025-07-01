@@ -16,7 +16,7 @@ Browser kamu = kayak tukang ojek online. Dia nganter permintaan kamu ke server,t
 
 ## ⚙️ Dua Bagian Website:
 
-<div align="left"><figure><img src=".gitbook/assets/image (3).png" alt="" width="140"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (3) (1).png" alt="" width="140"><figcaption></figcaption></figure></div>
 
 **Front End (Client-Side)**
 
@@ -25,7 +25,7 @@ pake HTML, CSS, dan JavaScript. Browser kamu yang ngerender ini semua.
 
 Kayak bagian depan rumah tempat tamu datang dan liat-liat
 
-<div align="left"><figure><img src=".gitbook/assets/image (4).png" alt="" width="149"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (4) (1).png" alt="" width="149"><figcaption></figcaption></figure></div>
 
 **Back End (Server-Side)**
 
@@ -79,7 +79,7 @@ pintu semuanya disusun pake HTML
 * Cek source code halaman untuk melihat celah
 * Modifikasi halaman lokal menggunakan DevTools (buat pentest atau fun)
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption><p>Contoh HTML</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>Contoh HTML</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Screenshot 2025-06-30 205327.png" alt="" width="411"><figcaption><p><strong>Fungsi-fungsi</strong></p></figcaption></figure>
 
